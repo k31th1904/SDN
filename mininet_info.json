@@ -1,0 +1,1 @@
+{"hosts": [{"name": "h1", "ip": "192.168.1.1", "mac": "00:00:00:00:11:11"}, {"name": "h2", "ip": "192.168.1.2", "mac": "00:00:00:00:11:12"}], "switches": [{"name": "s1"}, {"name": "s2"}], "controllers": [{"name": "c1", "ip": "127.0.0.1"}], "links": [{"src": "h1-eth0", "dst": "s1-eth1"}, {"src": "h2-eth0", "dst": "s2-eth1"}, {"src": "s1-eth2", "dst": "s2-eth2"}]}
