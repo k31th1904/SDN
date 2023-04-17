@@ -6,4 +6,4 @@ pip3 install requests
 pip3 install mininet
 sudo python3 run.py
 sudo mn -c
-sudo python3 ship-logs.py
+python3 ship-logs.py
